@@ -1,0 +1,7 @@
+{
+  "name": "Can It Kick",
+  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "image": "heroku/python",
+  "repository": "https://github.com/nicholasmullikin/python-getting-started",
+  "keywords": ["python"]
+}
