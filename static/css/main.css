@@ -15,16 +15,16 @@ a {
   cursor: pointer;
 }
 ::selection {
-  background: #555;
-  color: #FFF;
+  background: #9E9E9E;
+  color: #0288D1;
 }
 ::-moz-selection {
-  background: #555;
-  color: #FFF;
+  background: #9E9E9E;
+  color: #0288D1;
 }
 ::-webkit-selection {
-  background: #555;
-  color: #FFF;
+  background: #9E9E9E;
+  color: #0288D1;
 }
 /* Main elements end */
 
